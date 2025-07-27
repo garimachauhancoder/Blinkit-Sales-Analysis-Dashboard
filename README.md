@@ -49,11 +49,6 @@ To transform raw sales data into meaningful insights by designing a user-friendl
 ✅ Professionally grouped insights: KPIs, Trends, Categories, Geography.<br/>
 ✅ Enables strategic decision-making across sales, marketing, and operations teams.<br/><br/>
 
-### 📷 Dashboard Preview
-
-<img width="1145" height="650" alt="Screenshot 2025-07-27 105057" src="https://github.com/user-attachments/assets/7cae2faa-3df0-4c10-a207-f2676577c818" />
-
-
 ### 🔍 Use Cases<br/>
 - Track monthly and yearly growth of Blinkit outlets.<br/>
 - Analyze performance across different product categories.<br/>
