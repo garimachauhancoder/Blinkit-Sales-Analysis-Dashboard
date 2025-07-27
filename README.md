@@ -12,10 +12,10 @@ To transform raw sales data into meaningful insights by designing a user-friendl
 ## 📌 Key Insights & Visualizations:<br/>
 
 🔷 KPIs at the Top<br/>
--💰 Total Sales: $1.20M<br/>
--📦 Number of Items: 8523<br/>
--📊 Average Sales per Item: $141<br/>
--🌟 Average Customer Rating: 3.9<br/><br/>
+- 💰 Total Sales: $1.20M<br/>
+- 📦 Number of Items: 8523<br/>
+- 📊 Average Sales per Item: $141<br/>
+- 🌟 Average Customer Rating: 3.9<br/><br/>
 
 🔷 Interactive Filter Panel<br/>
 - Outlet Location<br/>
@@ -70,9 +70,10 @@ To transform raw sales data into meaningful insights by designing a user-friendl
 ├── .pbix File<br/>
 └── README.md<br/><br/>
 
-### 🔗 Let’s Connect<br/>
+#### 🔗 Let’s Connect<br/>
 I'm always open to collaborating on dashboards, analytics, and UI/UX projects.<br/><br/>
 
-### 📫 Reach out at: garimachauhan2301@gmail.com <br/>
-🔗 LinkedIn: <br/>
+#### 📫 Reach out at:<br/> 
+- Email: garimachauhan2301@gmail.com <br/>
+- 🔗 LinkedIn: <br/>
 
